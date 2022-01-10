@@ -1,4 +1,4 @@
-# A map web app
+# A web app to map workouts and store them locally
 
 This is a mapping application built using HTML, CSS and Vanilla JS
 
@@ -6,7 +6,7 @@ You can download the files and use it directly on a local server.
 
 It uses:
 
-- JS with classess and methods to
+- JS with classess and methods to create the map and render the workouts
 - The leafty library to create the render of the map
 - The location API from the browser and local storage to save the workouts of the user.
 
